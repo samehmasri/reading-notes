@@ -8,4 +8,4 @@ and there is fundimental things you should
 * Criticism : Deal with it in a positive way
 * Success of others: Help others to success and acheive your goals too
 
-*and this is my git hub account [GitHub](https://github.com/samehmasri)
+* and this is my git hub account [GitHub](https://github.com/samehmasri)
